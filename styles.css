@@ -58,10 +58,3 @@ main div button:hover {
 main div button:active {
     opacity: 0.5;
 }
-
-/* Responsive */
-@media only screen and (max-width: 400px) {
-    h2 {
-        text-align: center;
-    }
-}
