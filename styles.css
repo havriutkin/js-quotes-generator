@@ -48,11 +48,12 @@ main div button {
     padding: 5px;
     font-family: 'Roboto Mono', monospace;
     font-size: 1rem;
-    background-color: gainsboro;
+    background-color: #333333;
+    color: white;
 }
 
 main div button:hover {
-    background-color: whitesmoke;
+    background-color: #444444;
 }
 
 main div button:active {
