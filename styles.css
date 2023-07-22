@@ -10,6 +10,7 @@ h2 {
     font-family: 'Libre Baskerville', serif;
     font-style: italic;
     font-size: 2rem;
+    text-align: center;
 }
 
 h3 {
@@ -45,7 +46,7 @@ main div button {
     border-radius: 5px;
     margin-top: 1rem;
     padding: 5px;
-    font-family: monospace;
+    font-family: 'Roboto Mono', monospace;
     font-size: 1rem;
     background-color: gainsboro;
 }
